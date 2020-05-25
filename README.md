@@ -1,2 +1,1 @@
-# python_momo
-MTN MoMo API - Python
+# MTN MoMo API Python
